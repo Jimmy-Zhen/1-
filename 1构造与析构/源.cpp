@@ -74,7 +74,7 @@ private:
 
 int main()
 {
-	Pai pi(10, 20, 30, 50);
+	Pai pi(10, 20, 90, 50);
 	pi.val = 10;
 	pi.fun();
 	return 0;
