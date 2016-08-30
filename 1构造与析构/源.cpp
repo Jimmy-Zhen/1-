@@ -72,6 +72,10 @@ private:
 	int d;
 };
 
+
+
+
+
 int main()
 {
 	Pai pi(10, 20, 90, 50);
