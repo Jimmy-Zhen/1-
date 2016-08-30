@@ -75,7 +75,7 @@ private:
 
 
 
-
+//ewrwerw
 int main()
 {
 	Pai pi(10, 20, 90, 50);
