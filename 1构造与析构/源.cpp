@@ -2,7 +2,7 @@
 
 using namespace std;
 
-class Base0
+class Base0//»ùÀà
 {
 public:
 	int val;
